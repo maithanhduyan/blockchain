@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- =================================ANT BUILDER========================== 
+     project     : CRUD-Servlet-Freemaker
+     description : java 8, Servlet-api, Freemaker Template Engine.
+     Author		 : Mai Thành Duy An                                                               
+     Sep 10, 2018 5:52:54 PM                                                        
+     ====================================================================== -->
+<project basedir="." name="blockchain" default="">
+	
+</project>
